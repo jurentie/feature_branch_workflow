@@ -1,2 +1,4 @@
-# feature_branch_workflow
-Tutorial of how a feature branch works in git workflow.
+# Tutorial of Feature Branch Workflow
+
+This repository is created to demonstrate the feature branch workflow when working
+with git.
