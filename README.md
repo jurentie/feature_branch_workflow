@@ -9,3 +9,5 @@ workflows, including:
 2. Pull requests
 3. Forking a repository
 4. Merge
+
+Other users can work with this repository to make any changes they'd like and expirment with the different git workflows outlined in the documentation found on OWF's website at [learn.openwaterfoundation.org](learn.openwaterfoundation.org)
